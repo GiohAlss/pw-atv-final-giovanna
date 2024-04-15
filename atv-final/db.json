@@ -1,0 +1,18 @@
+{
+  "class": [],
+  
+  "class_categories": [
+      {
+        "id": "1",
+        "name": "1°DS"
+      },
+      {
+        "id": "2",
+        "name": "2°DS"
+      },
+      {
+        "id": "3",
+        "name": "3°DS"
+      }
+  ]
+}

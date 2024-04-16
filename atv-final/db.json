@@ -1,18 +1,58 @@
 {
-  "class": [],
-  
-  "class_categories": [
-      {
+  "class": [
+    {
+      "id": "8d1a",
+      "name_student": "Theodoro Moura",
+      "category": {
         "id": "1",
-        "name": "1°DS"
-      },
-      {
-        "id": "2",
-        "name": "2°DS"
-      },
-      {
-        "id": "3",
-        "name": "3°DS"
+        "category": "1°DS"
       }
+    },
+    {
+      "id": "18c8",
+      "name_student": "Alicia Maria",
+      "category": {
+        "id": "2",
+        "category": "2°DS"
+      }
+    },
+    {
+      "id": "2c88",
+      "name_student": "Beatriz Soares",
+      "category": {
+        "id": "3",
+        "category": "3°DS"
+      }
+    },
+    {
+      "id": "a69b",
+      "name_student": "Cecília Betânia",
+      "category": {
+        "id": "1",
+        "category": "1°DS"
+      }
+    },
+    {
+      "id": "90c0",
+      "name_student": "Joana Melissa",
+      "category": {
+        "id": "3",
+        "category": "3°DS"
+      }
+    }
+  ],
+  "class_categories": [
+    {
+      "id": "1",
+      "name": "1°DS"
+    },
+    {
+      "id": "2",
+      "name": "2°DS"
+    },
+    {
+      "id": "3",
+      "name": "3°DS"
+    }
   ]
 }
